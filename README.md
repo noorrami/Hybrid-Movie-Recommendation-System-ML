@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a **Hybrid Movie Recommendation System** that combines
-multiple machine learning techniques to generate personalized movie
+multiple machine learning techniques to generate personalized movie 
 recommendations.  
 The system integrates clustering, dimensionality reduction, and similarity-based
 approaches to improve recommendation quality.
